@@ -23,7 +23,6 @@ p{
     line-height: 1.2;
 }
 #particles-js{
-   width:100%;
   background-image: url('image1.jpg');  
    background-repeat:no-repeat;
    background-size:cover;
