@@ -22,7 +22,7 @@
         },
         "line_linked":{
             "enable":true,
-            "distance":70
+            "distance":110
         },
         "move":{
             "enable":true,
