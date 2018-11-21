@@ -19,14 +19,13 @@ h1{
 }
 
 p{
-    font-size: 18;
-    padding: 0;
-    margin: 0;
+    font-size:14px;
+    line-height: 1.2;
 }
 #particles-js{
    width:100%;
-  background-image: url('image1.jpg');/*your background image*/  
-   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
+  background-image: url('image1.jpg');  
+   background-repeat:no-repeat;
    background-size:cover;
     height: 100vh;
 }
