@@ -23,14 +23,13 @@ p{
     padding: 0;
     margin: 0;
 }
-#particles-js{
+/*#particles-js{
    width:100%;
-  background-image: url('image1.jpg');/*your background image*/  
-   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
-   background-size:cover;
+  background-image: url('image1.jpg');
+   background-repeat:no-repeat;
     height: 100vh;
 }
-
+*/
 
 
 
